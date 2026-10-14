@@ -1,3 +1,6 @@
 [submodule "third_party/evogym"]
 	path = third_party/evogym
 	url = https://github.com/EvolutionGym/evogym.git
+[submodule "third_party/evogym-datasets"]
+	path = third_party/evogym-datasets
+	url = https://github.com/EvolutionGym/evogym-datasets.git
