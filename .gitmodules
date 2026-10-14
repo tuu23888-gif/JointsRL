@@ -1,0 +1,3 @@
+[submodule "third_party/evogym"]
+	path = third_party/evogym
+	url = https://github.com/EvolutionGym/evogym.git

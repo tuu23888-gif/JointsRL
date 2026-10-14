@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.python-version
+
+# 本地缓存数据 / 渲染产物（体积大，不入库）
+data/
+demos/out/
+
+# EvoGym examples 跑出来的实验结果
+third_party/evogym/examples/saved_data/
